@@ -1,12 +1,12 @@
 Summary:	Multitouch devices
 Summary(pl.UTF-8):	Urządzenia multitouch
 Name:		mtdev
-Version:	1.1.3
+Version:	1.1.4
 Release:	1
 License:	MIT
 Group:		Libraries
 Source0:	http://bitmath.org/code/mtdev/%{name}-%{version}.tar.bz2
-# Source0-md5:	8a236569ad3dd79eaeed45f1935359be
+# Source0-md5:	73a915d6075b31db4f08ab8c6d314695
 URL:		http://bitmath.org/code/mtdev/
 BuildRequires:	autoconf >= 2.60
 BuildRequires:	automake
